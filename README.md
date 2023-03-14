@@ -26,8 +26,8 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/NunuAbuashvili/Typemaster-pre-launch-Landing-Page.git)
+- Live Site URL: [Live site URL here](https://nunuabuashvili.github.io/Typemaster-pre-launch-Landing-Page/)
 
 ## My process
 
